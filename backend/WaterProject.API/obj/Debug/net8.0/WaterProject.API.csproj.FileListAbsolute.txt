@@ -68,3 +68,4 @@ C:\Users\mandr\source\repos\WaterProject\backend\WaterProject.API\obj\Debug\net8
 C:\Users\mandr\source\repos\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.pdb
 C:\Users\mandr\source\repos\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\mandr\source\repos\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
+C:\Users\mandr\source\repos\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
